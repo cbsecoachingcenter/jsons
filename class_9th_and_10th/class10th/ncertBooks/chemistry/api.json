@@ -3,9 +3,24 @@
   "total": 10,
   "lists": [
 
-        {"ChapterNumber": "01","Ids": "class+10th+science+chapter+1 chemical+reactions+and+equations","Time": "2:31","Am_Pm": "PM","ChapterName": "Chemical Reactions and Equations","Download": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://ncert.nic.in/ncerts/l/jesc101.pdf&ved=2ahUKEwicidzom_P5AhWH7DgGHc7XBHIQFnoECBQQAQ&usg=AOvVaw0-pBqhgKwRntv1mns3IbPM","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh1.jpg"}
+        {"ChapterNumber": "01","Ids": "class+10th+science+chapter+1 chemical+reactions+and+equations","Time": "2:31","Am_Pm": "PM","ChapterName": "Chemical Reactions and Equations","Download": "","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh01.jpg"}
 
-       ,{"ChapterNumber": "02","Ids": "acid+base+and+salt class+10th+science+chapter+2","Time": "9:21","Am_Pm": "PM","ChapterName": "Acid Base and Salt","Download": "https://www.google.co.in/url?sa=t&source=web&rct=j&url=https://ncert.nic.in/textbook/pdf/jesc102.pdf&ved=2ahUKEwiVmOWnuvb5AhUnFrcAHYQ_CfoQFnoECAoQAQ&usg=AOvVaw2lS3T5uem35qz5TdbDe1_0","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh2.jpg"}
+
+
+        ,{"ChapterNumber": "02","Ids": "acid+base+and+salt class+10th+science+chapter+2","Time": "10:17","Am_Pm": "PM","ChapterName": "Acid Base and Salt","Download": "/not.html","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh02.jpg"}
+        
+        
+        ,{"ChapterNumber": "03","Ids": "metal+and+non-metals class+10th+science+chapter+3","Time": "10:38","Am_Pm": "PM","ChapterName": "Metals and Non-Metals","Download": "/not.html","Thumbnail": ""}
+        
+        
+        
+        ,{"ChapterNumber": "04","Ids": "carbon+and+its+compounds class+10th+science+chapter+4","Time": "10:42","Am_Pm": "PM","ChapterName": "Carbon and its Compounds","Download": "/not.html","Thumbnail": ""}
+        
+        
+        
+        
+        ,{"ChapterNumber": "05","Ids": "periodic+classification+of+elements class+10th+science+chapter+5","Time": "10:46","Am_Pm": "PM","ChapterName": "Periodic Classification of Elements","Download": "/not.html","Thumbnail": ""}
+
     
 
     ]
