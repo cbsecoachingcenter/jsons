@@ -1,7 +1,32 @@
 {
   "status": "ok",
-  "total": 10,
+  "total": 6,
   "lists": [
+    
+    
+    
+        {"ChapterNumber": "06","Ids": "life+processes class+10th+science+chapter+6","Time": "11:00","Am_Pm": "PM","ChapterName": "Life Processes","Download": "/not.html","Thumbnail": ""}
+        
+        
+        ,{"ChapterNumber": "07","Ids": "control+and+coordination class+10th+science+chapter+7","Time": "11:03","Am_Pm": "PM","ChapterName": "Control and Coordination","Download": "/not.html","Thumbnail": ""}
+        
+        
+        ,{"ChapterNumber": "08","Ids": "how do organisms reproduce class+10th+science+chapter+8","Time": "11:07","Am_Pm": "PM","ChapterName": "How do Organisms Reproduce?","Download": "/not.html","Thumbnail": ""}
+        
+        
+        ,{"ChapterNumber": "09","Ids": "heredity+and+evolution class+10th+science+chapter+9","Time": "11:11","Am_Pm": "PM","ChapterName": "Heredity and Evolution","Download": "/not.html","Thumbnail": ""}
+        
+        
+        ,{"ChapterNumber": "15","Ids": "our+environment class+10th+science+chapter+15","Time": "11:13","Am_Pm": "PM","ChapterName": "Our Environment","Download": "/not.html","Thumbnail": ""}
+        
+        
+        
+        ,{"ChapterNumber": "16","Ids": "management+of+natural+resources class+10th+science+chapter+16","Time": "11:55","Am_Pm": "PM","ChapterName": "Management of Natural Resources","Download": "/not.html","Thumbnail": ""}
+
+
+
+
+
 
 
     ]
