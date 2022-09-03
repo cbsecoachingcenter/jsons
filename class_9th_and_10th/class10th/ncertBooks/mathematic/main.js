@@ -21,7 +21,7 @@ xhr.onload = function() {
 
       let movies = `<div class="col-md-4" id="${element.Ids}" >
           <div class="card mb-4 shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="${element.Thumbnail}" alt="">
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="/ncertBooks/class_9th_and_10th/class10th/img/mathematicCh${element.ChapterNumber}.jpg" alt="">
 
             <div class="card-body card-light bg-dark">
               <h2 class="card-title text-light">CHAPTER : ${element.ChapterNumber}</h2>
@@ -30,18 +30,40 @@ xhr.onload = function() {
               
                
               
-              <div class="d-flex justify-content-between align-items-end my-4">
-              
-                <div class="btn-group">
+            <div class="d-flex justify-content-between align-items-start my-2">
+                              
+                                <div class="btn-group">
+                                
+                                
+                                     <a href="https://ncert.nic.in/textbook/pdf/je1${element.ChapterNumber}.pdf">
+                                  <button type="button" class="btn btn-outline-primary" style="width: 100px;">Download</button>
+                                  </a>
+                                  
+                                </div>
+                                                                </div>
+
+                                
+                                
+                                
+                                                              <div class="d-flex justify-content-between align-items-start mb-2">
+
+                                
+                                    <div class="btn-group">
+                                
+                                
+                                     <a href="${element.ChapterSolution}">
+                                  <button type="button" class="btn btn-outline-primary" style="width: 100px;">Solutions</button>
+                                  </a>
+                                 
+                                 
+                                 
+                                  
+                                </div>
                 
+                                
+                                
+                                
                 
-                 <a href="${element.Download}">
-                  <button type="button" class="btn btn-outline-primary" style="width: 100px;">Download</button>
-                  </a>
-                 
-                  
-                  
-                </div>
                 <small class="text-muted">${element.Time} ${element.Am_Pm}</small>
               </div>
             </div>
