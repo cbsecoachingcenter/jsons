@@ -35,7 +35,7 @@ xhr.onload = function() {
                                 <div class="btn-group">
                                 
                                 
-                                     <a href="https://ncert.nic.in/textbook/pdf/je1${element.ChapterNumber}.pdf">
+                                     <a href="https://ncert.nic.in/textbook/pdf/jemh1${element.ChapterNumber}.pdf">
                                   <button type="button" class="btn btn-outline-primary" style="width: 100px;">Download</button>
                                   </a>
                                   
