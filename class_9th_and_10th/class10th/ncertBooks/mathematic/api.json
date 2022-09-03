@@ -1,7 +1,93 @@
 {
   "status": "ok",
-  "total": 10,
+  "total": 15,
   "lists": [
+    
+            {"ChapterNumber": "01","Ids": "real+numbers class+10th+maths+chapter+1","Time": "11:30","Am_Pm": "AM","ChapterName": "Real Numbers","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/sm_sa/ncert-solutions-for-class-10-maths-chapter-1.pdf"}
+            
+            
+            
+            ,{"ChapterNumber": "02","Ids": "polynomials+class+10th+maths+chapter+2","Time": "11:35","Am_Pm": "AM","ChapterName": "Polynomials","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT%20Sol%20Math%20Chapter%202.pdf"}
+            
+            
+            
+            ,{"ChapterNumber": "03","Ids": "pair+of+linear+equations+in+two+variables class+10th+maths+chapter+3","Time": "11:44","Am_Pm": "AM","ChapterName": "Pair of Linear Equations in Two Variables","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT%20Sol%20Math%20Chap%203.pdf"}
+            
+            
+            
+            
+            
+            
+            ,{"ChapterNumber": "04","Ids": "quadratic+equations class+10th+maths+chapter+4","Time": "11:48","Am_Pm": "AM","ChapterName": "Quadratic Equations","Download": "/not.html","Thumbnail": "","ChapterSolution" : "            https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCET%20Sol%20Math%20Chap%204.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "05","Ids": "arithmetic+progressions class+10th+maths+chapter+5","Time": "11:53","Am_Pm": "AM","ChapterName": "Arithmetic Progressions","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT%20Sol%20Chap%205.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "06","Ids": "triangles class+10th+maths+chapter+6","Time": "11:58","Am_Pm": "AM","ChapterName": "Triangles","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT%20Sol%20Math%20Chap%206.pdf"}
+            
+            
+            
+            ,{"ChapterNumber": "07","Ids": "coordinates+geometry+class+10th+maths+chapter+7","Time": "12:02","Am_Pm": "PM","ChapterName": "Coordinates Geometry","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solutions-for-class-10-maths-chapter-7.pdf"}
+            
+            
+            
+            ,{"ChapterNumber": "08","Ids": "introduction+to+trigonometry class+10th+maths+chapter+8","Time": "12:05","Am_Pm": "PM","ChapterName": "Introduction to Trigonometry","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT%20Sol%20Math%20Chap%208.pdf"}
+            
+            
+            
+            
+            
+            
+            ,{"ChapterNumber": "09","Ids": "some+applications+of+trigonometry class+10th+maths+chapter+9","Time": "12:08","Am_Pm": "PM","ChapterName": "Some Applications of Trigonometry","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solutions-for-class-10-maths-chapter-9.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "10","Ids": "circles class+10th+maths+chapter+10","Time": "12:10","Am_Pm": "PM","ChapterName": "Circles","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT%20Sol%20Math%20Chap%2010.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "11","Ids": "constructions+class+10th+maths+chapter+11","Time": "12:12","Am_Pm": "PM","ChapterName": "Constructions","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT-Sol-Math-Chap-11.pdf"}
+            
+            
+            
+            ,{"ChapterNumber": "12","Ids": "areas+related+to+circles class+10th+maths+chapter+12","Time": "12:15","Am_Pm": "PM","ChapterName": "Areas Related to Circles","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT-Sol-Math-Chap-12.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "13","Ids": "surface+areas+and+volumes class+10th+maths+chapter+13","Time": "12:18","Am_Pm": "PM","ChapterName": "Surface Areas and Volumes","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT-Solution-Class-10-Maths-Chapter-13.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "14","Ids": "statistics class+10th+maths+chapter+14","Time": "12:19","Am_Pm": "PM","ChapterName": "Statistics","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT-Sol-Math-Chap-14.pdf"}
+            
+            
+            
+            
+            ,{"ChapterNumber": "15","Ids": "probability class+10th+maths+chapter+15","Time": "12:21","Am_Pm": "PM","ChapterName": "Probability","Download": "/not.html","Thumbnail": "","ChapterSolution" : "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/NCERT-Sol-Math-Chap-15_0.pdf"}
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+
+    
+    
+    
+    
 
 
     ]
