@@ -30,24 +30,42 @@ xhr.onload = function() {
                               
                                
                               
-                              <div class="d-flex justify-content-between align-items-end my-4">
+                              <div class="d-flex justify-content-between align-items-start my-2">
                               
                                 <div class="btn-group">
                                 
                                 
-                                <!-- <a href="${element.Download}">
-                                  <button type="button" class="btn btn-outline-primary" style="width: 100px;">Download</button>
-                                  </a>-->
-                                 
-                                  
                                      <a href="https://ncert.nic.in/ncerts/l/jesc1${element.ChapterNumber}.pdf">
                                   <button type="button" class="btn btn-outline-primary" style="width: 100px;">Download</button>
                                   </a>
+                                  
+                                </div>
+                                                                </div>
+
+                                
+                                
+                                
+                                                              <div class="d-flex justify-content-between align-items-start mb-2">
+
+                                
+                                    <div class="btn-group">
+                                
+                                
+                                     <a href="${element.ChapterSolution}">
+                                  <button type="button" class="btn btn-outline-primary" style="width: 100px;">Solutions</button>
+                                  </a>
+                                 
+                                 
                                  
                                   
-                         
-                  
-                </div>
+                                </div>
+                
+                                
+                                
+                                
+                
+                
+                
                 <small class="text-muted">${element.Time} ${element.Am_Pm}</small>
               </div>
             </div>
