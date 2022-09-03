@@ -3,23 +3,23 @@
   "total": 5,
   "lists": [
 
-        {"ChapterNumber": "01","Ids": "class+10th+science+chapter+1 chemical+reactions+and+equations","Time": "2:31","Am_Pm": "PM","ChapterName": "Chemical Reactions and Equations","Download": "","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh01.jpg"}
+        {"ChapterNumber": "01","Ids": "class+10th+science+chapter+1 chemical+reactions+and+equations","Time": "2:31","Am_Pm": "PM","ChapterName": "Chemical Reactions and Equations","Download": "","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh01.jpg","ChapterSolution": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solution-cbse-class-10-sci-chap-1.pdf"}
 
 
 
-        ,{"ChapterNumber": "02","Ids": "acid+base+and+salt class+10th+science+chapter+2","Time": "10:17","Am_Pm": "PM","ChapterName": "Acid Base and Salt","Download": "/not.html","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh02.jpg"}
+        ,{"ChapterNumber": "02","Ids": "acid+base+and+salt class+10th+science+chapter+2","Time": "10:17","Am_Pm": "PM","ChapterName": "Acid Base and Salt","Download": "/not.html","Thumbnail": "/ncertBooks/class_9th_and_10th/class10th/img/chemistryCh02.jpg","ChapterSolution": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solution-cbse-class-10-sci-chap-2.pdf"}
         
         
-        ,{"ChapterNumber": "03","Ids": "metal+and+non-metals class+10th+science+chapter+3","Time": "10:38","Am_Pm": "PM","ChapterName": "Metals and Non-Metals","Download": "/not.html","Thumbnail": ""}
-        
-        
-        
-        ,{"ChapterNumber": "04","Ids": "carbon+and+its+compounds class+10th+science+chapter+4","Time": "10:42","Am_Pm": "PM","ChapterName": "Carbon and its Compounds","Download": "/not.html","Thumbnail": ""}
+        ,{"ChapterNumber": "03","Ids": "metal+and+non-metals class+10th+science+chapter+3","Time": "10:38","Am_Pm": "PM","ChapterName": "Metals and Non-Metals","Download": "/not.html","Thumbnail": "","ChapterSolution": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solution-cbse-class-10-sci-chap-3.pdf"}
         
         
         
+        ,{"ChapterNumber": "04","Ids": "carbon+and+its+compounds class+10th+science+chapter+4","Time": "10:42","Am_Pm": "PM","ChapterName": "Carbon and its Compounds","Download": "/not.html","Thumbnail": "","ChapterSolution": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solution-cbse-class-10-sci-chap-4.pdf"}
         
-        ,{"ChapterNumber": "05","Ids": "periodic+classification+of+elements class+10th+science+chapter+5","Time": "10:46","Am_Pm": "PM","ChapterName": "Periodic Classification of Elements","Download": "/not.html","Thumbnail": ""}
+        
+        
+        
+        ,{"ChapterNumber": "05","Ids": "periodic+classification+of+elements class+10th+science+chapter+5","Time": "10:46","Am_Pm": "PM","ChapterName": "Periodic Classification of Elements","Download": "/not.html","Thumbnail": "","ChapterSolution": "https://dcx0p3on5z8dw.cloudfront.net/Aakash/s3fs-public/pdf_management_files/target_solutions/ncert-solution-cbse-class-10-sci-chap-5.pdf"}
 
     
 
