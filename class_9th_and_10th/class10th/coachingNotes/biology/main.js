@@ -21,7 +21,19 @@ xhr.onload = function() {
 
       let movies = `<div class="col-md-4" id="${element.Ids}" >
           <div class="card mb-4 shadow-sm">
-            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="${element.Thumbnail}" alt="">
+           <!-- <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="${element.Thumbnail}" alt="">-->
+            
+            
+            
+            
+            <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="/coachingNotes/class_9th_and_10th/class10th/img/class_10th_science_chapter_${element.ChapterNumber}_coaching_notes.jpg" alt="">
+            
+            
+            
+            
+            
+            
+            
 
             <div class="card-body card-light bg-dark">
               <h2 class="card-title text-light">CHAPTER : ${element.ChapterNumber}</h2>
