@@ -8,7 +8,7 @@ let mainContainer = document.getElementById('mainContainer');
 const xhr = new XMLHttpRequest();
 
 
-xhr.open('GET', '/jsons/class_9th_and_10th/class10th/otherStudiesMaterials/biology/api.json', true);
+xhr.open('GET', '/jsons/class_9th_and_10th/class10th/OtherStudiesMaterials/biology/api.json', true);
 
 
 xhr.onload = function() {
