@@ -24,8 +24,8 @@ xhr.onload = function() {
             <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="${element.Thumbnail}" alt="">
 
             <div class="card-body card-light bg-dark">
-              <h2 class="card-title text-light">CHAPTER : ${element.ChapterNumber}</h2>
-              <h4 class="card-text text-danger">Name : <span class="text-danger">${element.ChapterName}</span></h4>
+              <h2 class="card-title text-light"> ${element.ChapterNumber}</h2>
+              <h4 class="card-text text-danger"> <span class="text-danger">${element.ChapterName}</span></h4>
               
               
                
